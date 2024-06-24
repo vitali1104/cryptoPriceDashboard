@@ -7,6 +7,7 @@ const Homepage = () => {
     <>
       <Banner />
       <CoinsTable />
+      <Hello />
     </>
   );
 };
